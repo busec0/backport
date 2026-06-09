@@ -1,1 +1,1 @@
-INITIAL line: edit me to trigger a conflict.
+TARGET FOR THEIRS: a different line so cherry-pick from main-source will conflict.
