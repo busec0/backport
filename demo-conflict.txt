@@ -1,0 +1,1 @@
+INITIAL line: edit me to trigger a conflict.
