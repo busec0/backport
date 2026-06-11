@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TARGET FOR COMMIT — second file diverges here too
+=======
+SOURCE FROM MAIN-SOURCE — modifies second file too.
+>>>>>>> a818f29 (demo502b: source change touching both conflict files)
